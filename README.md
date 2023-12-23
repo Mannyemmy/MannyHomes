@@ -14,7 +14,7 @@
 
   MannyHomes is fully responsive Real estate website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://mannyemmy.github.io/mannyhomes/"><strong>➥ Live Demo</strong></a>
+  <a href="[https://mannyemmy.github.io/mannyhomes/](https://mannyemmy.github.io/MannyHomes/)"><strong>➥ Live Demo</strong></a>
 
 </div>
 
